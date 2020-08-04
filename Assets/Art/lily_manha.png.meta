@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: b6597159303a94b03a9fa7aa087410e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5428627129844213267
+    second: lily_manha_0
+  - first:
+      213: 5665700460435608084
+    second: lily_manha_1
+  - first:
+      213: -1981892948967229344
+    second: lily_manha_2
+  - first:
+      213: 6859092789047759992
+    second: lily_manha_3
+  - first:
+      213: 7790791781255540167
+    second: lily_manha_4
+  - first:
+      213: 2641712938473399839
+    second: lily_manha_5
+  - first:
+      213: 3460340664118438258
+    second: lily_manha_6
+  - first:
+      213: -8444437197499108619
+    second: lily_manha_7
+  - first:
+      213: 460542006620773023
+    second: lily_manha_8
+  - first:
+      213: 5636231037380808296
+    second: lily_manha_9
+  - first:
+      213: 4437255596611023905
+    second: lily_manha_10
+  - first:
+      213: 6581574933198398384
+    second: lily_manha_11
+  - first:
+      213: 145060386138780101
+    second: lily_manha_12
+  - first:
+      213: -9005343572918241744
+    second: lily_manha_13
+  - first:
+      213: 4590330261789478988
+    second: lily_manha_14
+  - first:
+      213: -3510874511620819062
+    second: lily_manha_15
+  - first:
+      213: -3746744617025488532
+    second: lily_manha_16
+  - first:
+      213: 3420380651641183709
+    second: lily_manha_17
+  - first:
+      213: 2946461831245439242
+    second: lily_manha_18
+  - first:
+      213: 7152282655361811500
+    second: lily_manha_19
+  - first:
+      213: 5735646199485363319
+    second: lily_manha_20
+  - first:
+      213: 4928228490324506483
+    second: lily_manha_21
+  - first:
+      213: -1833371919965680610
+    second: lily_manha_22
+  - first:
+      213: 7260348001402949428
+    second: lily_manha_23
+  - first:
+      213: -1135514263335195703
+    second: lily_manha_24
+  - first:
+      213: -4651638794155016733
+    second: lily_manha_25
+  - first:
+      213: -3962021462587839051
+    second: lily_manha_26
+  - first:
+      213: -6843156362789804125
+    second: lily_manha_27
+  - first:
+      213: -8806060928600900644
+    second: lily_manha_28
+  - first:
+      213: -8649182945567284838
+    second: lily_manha_29
+  - first:
+      213: -2408766480003915850
+    second: lily_manha_30
+  - first:
+      213: 6756831103279644441
+    second: lily_manha_31
+  - first:
+      213: -3005243918430385732
+    second: lily_manha_32
+  - first:
+      213: 7454539564811619886
+    second: lily_manha_33
+  - first:
+      213: 7268048223880663399
+    second: lily_manha_34
+  - first:
+      213: -4687806659880732136
+    second: lily_manha_35
+  - first:
+      213: -8509708083920751937
+    second: lily_manha_36
+  - first:
+      213: -5527103185510353143
+    second: lily_manha_37
+  - first:
+      213: -265546753615172264
+    second: lily_manha_38
+  - first:
+      213: 799996998255571451
+    second: lily_manha_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lily_manha_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de956933364a9a4b0800000000000000
+      internalID: -5428627129844213267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_manha_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 96
+        width: 30.333334
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4121804fc8c90ae40800000000000000
+      internalID: 5665700460435608084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_manha_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 96
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068f4f90dd6ee74e0800000000000000
+      internalID: -1981892948967229344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_manha_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87492a4fc84603f50800000000000000
+      internalID: 6859092789047759992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_manha_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 64
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cde4c009d37e1c60800000000000000
+      internalID: 7790791781255540167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_manha_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 64
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16a240dbef39a420800000000000000
+      internalID: 2641712938473399839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_manha_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2796e961089950030800000000000000
+      internalID: 3460340664118438258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_manha_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 32
+        width: 30.333334
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f278f20c155fca80800000000000000
+      internalID: -8444437197499108619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_manha_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 32
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ad6c4d38c246600800000000000000
+      internalID: 460542006620773023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_manha_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e4d17344ae73e40800000000000000
+      internalID: 5636231037380808296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_manha_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 30.333334
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1243d9d947c449d30800000000000000
+      internalID: 4437255596611023905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_manha_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3e7e3f783765b50800000000000000
+      internalID: 6581574933198398384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
