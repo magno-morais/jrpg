@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 974bc6007b90d968c82d73a0711f0132
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2877942700648288917
+    second: sprite_arqueira_0
+  - first:
+      213: 568207920545385584
+    second: sprite_arqueira_1
+  - first:
+      213: -1635666693447867032
+    second: sprite_arqueira_2
+  - first:
+      213: -1085164787722126997
+    second: sprite_arqueira_3
+  - first:
+      213: -7264954310348141404
+    second: sprite_arqueira_4
+  - first:
+      213: 1197864163705056482
+    second: sprite_arqueira_5
+  - first:
+      213: -5946829310799226970
+    second: sprite_arqueira_6
+  - first:
+      213: 3523694754877330733
+    second: sprite_arqueira_7
+  - first:
+      213: 3924906566171669360
+    second: sprite_arqueira_8
+  - first:
+      213: 7806519746045315181
+    second: sprite_arqueira_9
+  - first:
+      213: 1400496948849895023
+    second: sprite_arqueira_10
+  - first:
+      213: -3614426905300344114
+    second: sprite_arqueira_11
+  - first:
+      213: 7042799811596359271
+    second: sprite_arqueira_12
+  - first:
+      213: -5659505570482569906
+    second: sprite_arqueira_13
+  - first:
+      213: -4390619116694510496
+    second: sprite_arqueira_14
+  - first:
+      213: 5271979127576249634
+    second: sprite_arqueira_15
+  - first:
+      213: 6095055846477660735
+    second: sprite_arqueira_16
+  - first:
+      213: -7366483541796104150
+    second: sprite_arqueira_17
+  - first:
+      213: 6864027774406152945
+    second: sprite_arqueira_18
+  - first:
+      213: -5001868065122834097
+    second: sprite_arqueira_19
+  - first:
+      213: 955415993824748253
+    second: sprite_arqueira_20
+  - first:
+      213: 4383211268551026279
+    second: sprite_arqueira_21
+  - first:
+      213: 5263366842077823506
+    second: sprite_arqueira_22
+  - first:
+      213: -1150283150829059665
+    second: sprite_arqueira_23
+  - first:
+      213: -4336050975375361646
+    second: sprite_arqueira_24
+  - first:
+      213: -786936856365627806
+    second: sprite_arqueira_25
+  - first:
+      213: 2284828664347115621
+    second: sprite_arqueira_26
+  - first:
+      213: 1879958091916177097
+    second: sprite_arqueira_27
+  - first:
+      213: -4383120195087986835
+    second: sprite_arqueira_28
+  - first:
+      213: 3581727681444714103
+    second: sprite_arqueira_29
+  - first:
+      213: 6793639858721735231
+    second: sprite_arqueira_30
+  - first:
+      213: -3750978607809426614
+    second: sprite_arqueira_31
+  - first:
+      213: 8989581995865825464
+    second: sprite_arqueira_32
+  - first:
+      213: -7506379916119569818
+    second: sprite_arqueira_33
+  - first:
+      213: 2469546073017895540
+    second: sprite_arqueira_34
+  - first:
+      213: 4021915468894445202
+    second: sprite_arqueira_35
+  - first:
+      213: -6813166207011710750
+    second: sprite_arqueira_36
+  - first:
+      213: 9061943294711674673
+    second: sprite_arqueira_37
+  - first:
+      213: 5122560542343184384
+    second: sprite_arqueira_38
+  - first:
+      213: -5604836573691753783
+    second: sprite_arqueira_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_arqueira_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 30.666666
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d2eeb9c5e7f08d0800000000000000
+      internalID: -2877942700648288917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arqueira_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 96
+        width: 30.666666
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ccbaed71ea2e700800000000000000
+      internalID: 568207920545385584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arqueira_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 96
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8652a16fec1fc49e0800000000000000
+      internalID: -1635666693447867032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arqueira_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 30.666666
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b697f010068b0f0f0800000000000000
+      internalID: -1085164787722126997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arqueira_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 64
+        width: 30.666666
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac814ecb82bd2b90800000000000000
+      internalID: -7264954310348141404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arqueira_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 64
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec6fce3c1baf9010800000000000000
+      internalID: 1197864163705056482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arqueira_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 30.666666
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a75eeddf3e987da0800000000000000
+      internalID: -5946829310799226970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arqueira_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 32
+        width: 30.666666
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25de51d5bda6e030800000000000000
+      internalID: 3523694754877330733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arqueira_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 32
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073b2451ab1187630800000000000000
+      internalID: 3924906566171669360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arqueira_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30.666666
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d688a1b2954565c60800000000000000
+      internalID: 7806519746045315181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arqueira_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30.666666
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6667390e809f6310800000000000000
+      internalID: 1400496948849895023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_arqueira_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec265f231e9f6ddc0800000000000000
+      internalID: -3614426905300344114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

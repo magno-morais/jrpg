@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - BattleTag
   layers:
   - Default
   - TransparentFX
@@ -13,10 +14,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Colissions
+  - Battle
+  - Player
   - 
   - 
   - 
@@ -38,6 +39,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Ground
+    uniqueID: 2128821123
+    locked: 0
+  - name: Battle
+    uniqueID: 3374858667
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Colissions
+    uniqueID: 716822919
+    locked: 0
+  - name: Player
+    uniqueID: 4228915241
+    locked: 0
+  - name: Foreground
+    uniqueID: 1940388189
     locked: 0

@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 420283646a3cc045b89f44c0b4a2b251
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2426923878765677672
+    second: Web_attack_0
+  - first:
+      213: 8287567910231156155
+    second: Web_attack_1
+  - first:
+      213: -9155114410693066787
+    second: Web_attack_2
+  - first:
+      213: 6074451311601646479
+    second: Web_attack_3
+  - first:
+      213: 8150547858629826505
+    second: Web_attack_4
+  - first:
+      213: 17650696144590500
+    second: Web_attack_5
+  - first:
+      213: 7374671813444305410
+    second: Web_attack_6
+  - first:
+      213: -4590268434571907710
+    second: Web_attack_7
+  - first:
+      213: 4580486607206074987
+    second: Web_attack_8
+  - first:
+      213: -4847626411004931706
+    second: Web_attack_9
+  - first:
+      213: 2889122331948940724
+    second: Web_attack_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Web_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407.25
+        width: 135.66667
+        height: 135.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89332453795d15ed0800000000000000
+      internalID: -2426923878765677672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Web_attack_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 407.25
+        width: 135.66667
+        height: 135.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5214dda1b530370800000000000000
+      internalID: 8287567910231156155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Web_attack_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 407.25
+        width: 135.66667
+        height: 135.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf749803ff72f080800000000000000
+      internalID: -9155114410693066787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Web_attack_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272.25
+        width: 135.66667
+        height: 135.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bfb69b849cc4450800000000000000
+      internalID: 6074451311601646479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Web_attack_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 272.25
+        width: 135.66667
+        height: 135.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7937e08109c1170800000000000000
+      internalID: 8150547858629826505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Web_attack_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 272.25
+        width: 135.66667
+        height: 135.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a69cb1f635be3000800000000000000
+      internalID: 17650696144590500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Web_attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137.25
+        width: 135.66667
+        height: 135.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2020f6f01f8185660800000000000000
+      internalID: 7374671813444305410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Web_attack_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 137.25
+        width: 135.66667
+        height: 135.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d27a5dd271c40c0800000000000000
+      internalID: -4590268434571907710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Web_attack_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 137.25
+        width: 135.66667
+        height: 135.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ac3f00d48219f30800000000000000
+      internalID: 4580486607206074987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Web_attack_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 135.66667
+        height: 135.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681df388675c9bcb0800000000000000
+      internalID: -4847626411004931706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Web_attack_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2.25
+        width: 135.66667
+        height: 135.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdf6742479381820800000000000000
+      internalID: 2889122331948940724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5504 @@
+fileFormatVersion: 2
+guid: 8d587be25795ab60e95d265da47778dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8626057674771890555
+    second: Inside_Walls_0
+  - first:
+      213: -467840948554277076
+    second: Inside_Walls_1
+  - first:
+      213: 6084490033007112049
+    second: Inside_Walls_2
+  - first:
+      213: 6976604243950709704
+    second: Inside_Walls_3
+  - first:
+      213: -9062476965570261411
+    second: Inside_Walls_4
+  - first:
+      213: 8287949497045526258
+    second: Inside_Walls_5
+  - first:
+      213: 8615342836473890283
+    second: Inside_Walls_6
+  - first:
+      213: -2033948870408629835
+    second: Inside_Walls_7
+  - first:
+      213: 2704690619474789061
+    second: Inside_Walls_8
+  - first:
+      213: 7922246738060867404
+    second: Inside_Walls_9
+  - first:
+      213: 2606883382336237020
+    second: Inside_Walls_10
+  - first:
+      213: 3789434430139798886
+    second: Inside_Walls_11
+  - first:
+      213: -5648661485057403318
+    second: Inside_Walls_12
+  - first:
+      213: -1907202594882046375
+    second: Inside_Walls_13
+  - first:
+      213: -3035877019694961882
+    second: Inside_Walls_14
+  - first:
+      213: 4044563473988363318
+    second: Inside_Walls_15
+  - first:
+      213: -4953452007647803312
+    second: Inside_Walls_16
+  - first:
+      213: 9133422113492533354
+    second: Inside_Walls_17
+  - first:
+      213: 6090998677935557918
+    second: Inside_Walls_18
+  - first:
+      213: -3261547773624427131
+    second: Inside_Walls_19
+  - first:
+      213: 6380756148589525728
+    second: Inside_Walls_20
+  - first:
+      213: -454204563547286754
+    second: Inside_Walls_21
+  - first:
+      213: 7955501379969770329
+    second: Inside_Walls_22
+  - first:
+      213: -6905673043649475759
+    second: Inside_Walls_23
+  - first:
+      213: 6900492054422009511
+    second: Inside_Walls_24
+  - first:
+      213: -1273223528569056889
+    second: Inside_Walls_25
+  - first:
+      213: 1327547349291653169
+    second: Inside_Walls_26
+  - first:
+      213: 403704604527047657
+    second: Inside_Walls_27
+  - first:
+      213: 5907880182230538242
+    second: Inside_Walls_28
+  - first:
+      213: 1159339137612609768
+    second: Inside_Walls_29
+  - first:
+      213: -980628445414068210
+    second: Inside_Walls_30
+  - first:
+      213: -1587150434412147305
+    second: Inside_Walls_31
+  - first:
+      213: 7122977407582186193
+    second: Inside_Walls_32
+  - first:
+      213: -4209886138415486199
+    second: Inside_Walls_33
+  - first:
+      213: 6850475751134984536
+    second: Inside_Walls_34
+  - first:
+      213: -8029750466660368265
+    second: Inside_Walls_35
+  - first:
+      213: 5160442441618080047
+    second: Inside_Walls_36
+  - first:
+      213: 5462226002139750089
+    second: Inside_Walls_37
+  - first:
+      213: -625957926431101674
+    second: Inside_Walls_38
+  - first:
+      213: -4467904556475713016
+    second: Inside_Walls_39
+  - first:
+      213: -1139803673849349198
+    second: Inside_Walls_40
+  - first:
+      213: 6995811020959529761
+    second: Inside_Walls_41
+  - first:
+      213: -3238791930236081287
+    second: Inside_Walls_42
+  - first:
+      213: -965565448355535964
+    second: Inside_Walls_43
+  - first:
+      213: 5115973759355048019
+    second: Inside_Walls_44
+  - first:
+      213: 5572204141763861257
+    second: Inside_Walls_45
+  - first:
+      213: -723293851366537963
+    second: Inside_Walls_46
+  - first:
+      213: -2431421449199142292
+    second: Inside_Walls_47
+  - first:
+      213: -8708888767246567622
+    second: Inside_Walls_48
+  - first:
+      213: 4571499772234642743
+    second: Inside_Walls_49
+  - first:
+      213: -7935335574789850657
+    second: Inside_Walls_50
+  - first:
+      213: -5787895804660086053
+    second: Inside_Walls_51
+  - first:
+      213: -5203079246482767756
+    second: Inside_Walls_52
+  - first:
+      213: 6785220581218517836
+    second: Inside_Walls_53
+  - first:
+      213: -803585820643494908
+    second: Inside_Walls_54
+  - first:
+      213: -1303990591834648111
+    second: Inside_Walls_55
+  - first:
+      213: -3191496676538174014
+    second: Inside_Walls_56
+  - first:
+      213: 8206133298782047446
+    second: Inside_Walls_57
+  - first:
+      213: 4526289026067179833
+    second: Inside_Walls_58
+  - first:
+      213: 4741053429180915023
+    second: Inside_Walls_59
+  - first:
+      213: 6032993309675806436
+    second: Inside_Walls_60
+  - first:
+      213: -5439074001737672097
+    second: Inside_Walls_61
+  - first:
+      213: 6308653547947951432
+    second: Inside_Walls_62
+  - first:
+      213: -5134619804109281096
+    second: Inside_Walls_63
+  - first:
+      213: 1352307382368258113
+    second: Inside_Walls_64
+  - first:
+      213: 164689619993251759
+    second: Inside_Walls_65
+  - first:
+      213: -188575292697459598
+    second: Inside_Walls_66
+  - first:
+      213: 2716215135816090132
+    second: Inside_Walls_67
+  - first:
+      213: -8686927501910080777
+    second: Inside_Walls_68
+  - first:
+      213: 7830144963561648164
+    second: Inside_Walls_69
+  - first:
+      213: 3915606626379516341
+    second: Inside_Walls_70
+  - first:
+      213: 2340510831990290598
+    second: Inside_Walls_71
+  - first:
+      213: -7139570162554703253
+    second: Inside_Walls_72
+  - first:
+      213: -1259805585989981009
+    second: Inside_Walls_73
+  - first:
+      213: 3862855771405053083
+    second: Inside_Walls_74
+  - first:
+      213: 4305603587391929925
+    second: Inside_Walls_75
+  - first:
+      213: 7596184435396820488
+    second: Inside_Walls_76
+  - first:
+      213: 1728918278595129317
+    second: Inside_Walls_77
+  - first:
+      213: -6346696580091640822
+    second: Inside_Walls_78
+  - first:
+      213: 3626842536725738089
+    second: Inside_Walls_79
+  - first:
+      213: -4718475538078699195
+    second: Inside_Walls_80
+  - first:
+      213: 1993442417376395545
+    second: Inside_Walls_81
+  - first:
+      213: 1855477125994831642
+    second: Inside_Walls_82
+  - first:
+      213: 712668266373236796
+    second: Inside_Walls_83
+  - first:
+      213: -8104228078554011075
+    second: Inside_Walls_84
+  - first:
+      213: -5309345359155806877
+    second: Inside_Walls_85
+  - first:
+      213: 1029781437744079692
+    second: Inside_Walls_86
+  - first:
+      213: -479881014672875825
+    second: Inside_Walls_87
+  - first:
+      213: 2831075192624284817
+    second: Inside_Walls_88
+  - first:
+      213: 7084428178779419888
+    second: Inside_Walls_89
+  - first:
+      213: 762989867734213225
+    second: Inside_Walls_90
+  - first:
+      213: 1152851805335415564
+    second: Inside_Walls_91
+  - first:
+      213: 7160292368603363572
+    second: Inside_Walls_92
+  - first:
+      213: -1259061406106743829
+    second: Inside_Walls_93
+  - first:
+      213: 3099730951346957136
+    second: Inside_Walls_94
+  - first:
+      213: -7780450101412021643
+    second: Inside_Walls_95
+  - first:
+      213: -7477989860397634819
+    second: Inside_Walls_96
+  - first:
+      213: 1522909795107123407
+    second: Inside_Walls_97
+  - first:
+      213: 324331948550160754
+    second: Inside_Walls_98
+  - first:
+      213: 3314015186967099642
+    second: Inside_Walls_99
+  - first:
+      213: 7452491735566135402
+    second: Inside_Walls_100
+  - first:
+      213: -5561231687161503890
+    second: Inside_Walls_101
+  - first:
+      213: -9051978145657476251
+    second: Inside_Walls_102
+  - first:
+      213: 5764024703064241146
+    second: Inside_Walls_103
+  - first:
+      213: -5647595044977559945
+    second: Inside_Walls_104
+  - first:
+      213: 694307099149210818
+    second: Inside_Walls_105
+  - first:
+      213: -7179139008510690891
+    second: Inside_Walls_106
+  - first:
+      213: 416951740023718991
+    second: Inside_Walls_107
+  - first:
+      213: 6639879177503371637
+    second: Inside_Walls_108
+  - first:
+      213: 7165318833247257970
+    second: Inside_Walls_109
+  - first:
+      213: -2067758094897843207
+    second: Inside_Walls_110
+  - first:
+      213: -1688596099374528189
+    second: Inside_Walls_111
+  - first:
+      213: 7562549228744336990
+    second: Inside_Walls_112
+  - first:
+      213: 5849767268548367158
+    second: Inside_Walls_113
+  - first:
+      213: -4490042150903215473
+    second: Inside_Walls_114
+  - first:
+      213: 1644894124013068217
+    second: Inside_Walls_115
+  - first:
+      213: 2500081032523226135
+    second: Inside_Walls_116
+  - first:
+      213: 2577349395265623306
+    second: Inside_Walls_117
+  - first:
+      213: -4783696890198634343
+    second: Inside_Walls_118
+  - first:
+      213: -2807785282204933599
+    second: Inside_Walls_119
+  - first:
+      213: -6374076775796887654
+    second: Inside_Walls_120
+  - first:
+      213: -9078185279348608305
+    second: Inside_Walls_121
+  - first:
+      213: -7714019380372101922
+    second: Inside_Walls_122
+  - first:
+      213: 8913463688580331507
+    second: Inside_Walls_123
+  - first:
+      213: -5071885295668127764
+    second: Inside_Walls_124
+  - first:
+      213: 5398047410391936183
+    second: Inside_Walls_125
+  - first:
+      213: -8095325592508061663
+    second: Inside_Walls_126
+  - first:
+      213: -1385547074947681324
+    second: Inside_Walls_127
+  - first:
+      213: 6118732702680822193
+    second: Inside_Walls_128
+  - first:
+      213: -5254059995156424802
+    second: Inside_Walls_129
+  - first:
+      213: 4307447140665820688
+    second: Inside_Walls_130
+  - first:
+      213: 8057400785655799291
+    second: Inside_Walls_131
+  - first:
+      213: 8051302170643380896
+    second: Inside_Walls_132
+  - first:
+      213: 4008289243757461287
+    second: Inside_Walls_133
+  - first:
+      213: 7123059593332387702
+    second: Inside_Walls_134
+  - first:
+      213: 3920030924409560597
+    second: Inside_Walls_135
+  - first:
+      213: -6342357107343961854
+    second: Inside_Walls_136
+  - first:
+      213: 127757476999381046
+    second: Inside_Walls_137
+  - first:
+      213: 4920881155232879640
+    second: Inside_Walls_138
+  - first:
+      213: 7861410098142058168
+    second: Inside_Walls_139
+  - first:
+      213: 2319803511504833788
+    second: Inside_Walls_140
+  - first:
+      213: 8630495177265860166
+    second: Inside_Walls_141
+  - first:
+      213: 3624494656543334181
+    second: Inside_Walls_142
+  - first:
+      213: -3016573311971057766
+    second: Inside_Walls_143
+  - first:
+      213: -8415112819107621615
+    second: Inside_Walls_144
+  - first:
+      213: 4708424729400181675
+    second: Inside_Walls_145
+  - first:
+      213: 5625414859693836511
+    second: Inside_Walls_146
+  - first:
+      213: 3048962894357672229
+    second: Inside_Walls_147
+  - first:
+      213: 582148719118160881
+    second: Inside_Walls_148
+  - first:
+      213: 2971491823590957329
+    second: Inside_Walls_149
+  - first:
+      213: 3184752956705740665
+    second: Inside_Walls_150
+  - first:
+      213: 7886414768975451081
+    second: Inside_Walls_151
+  - first:
+      213: 4830129304806133189
+    second: Inside_Walls_152
+  - first:
+      213: -4685729614738305
+    second: Inside_Walls_153
+  - first:
+      213: -6092222153957370841
+    second: Inside_Walls_154
+  - first:
+      213: -5719424904912164481
+    second: Inside_Walls_155
+  - first:
+      213: -8691431761504595546
+    second: Inside_Walls_156
+  - first:
+      213: -1821188382686354344
+    second: Inside_Walls_157
+  - first:
+      213: 8046706518078283550
+    second: Inside_Walls_158
+  - first:
+      213: 6414906054230515768
+    second: Inside_Walls_159
+  - first:
+      213: -7779583450990547952
+    second: Inside_Walls_160
+  - first:
+      213: -2539255742649675099
+    second: Inside_Walls_161
+  - first:
+      213: -4393318090311625709
+    second: Inside_Walls_162
+  - first:
+      213: 4148024159151614670
+    second: Inside_Walls_163
+  - first:
+      213: 6669833111608736431
+    second: Inside_Walls_164
+  - first:
+      213: -7536338782810299150
+    second: Inside_Walls_165
+  - first:
+      213: -7843451404846084047
+    second: Inside_Walls_166
+  - first:
+      213: 2115735871508710287
+    second: Inside_Walls_167
+  - first:
+      213: -4978187769083835341
+    second: Inside_Walls_168
+  - first:
+      213: -3013561387417038818
+    second: Inside_Walls_169
+  - first:
+      213: -2943506897240756547
+    second: Inside_Walls_170
+  - first:
+      213: 4231537484327610307
+    second: Inside_Walls_171
+  - first:
+      213: -5181604853303931591
+    second: Inside_Walls_172
+  - first:
+      213: -6858621095238266598
+    second: Inside_Walls_173
+  - first:
+      213: 4596224142675365060
+    second: Inside_Walls_174
+  - first:
+      213: -7052975616269640617
+    second: Inside_Walls_175
+  - first:
+      213: 5492631698611103020
+    second: Inside_Walls_176
+  - first:
+      213: -5590745283034719080
+    second: Inside_Walls_177
+  - first:
+      213: -2792465545976877316
+    second: Inside_Walls_178
+  - first:
+      213: -264574699372447656
+    second: Inside_Walls_179
+  - first:
+      213: 5992080663821249502
+    second: Inside_Walls_180
+  - first:
+      213: 4945367522558282388
+    second: Inside_Walls_181
+  - first:
+      213: 2555250120009484828
+    second: Inside_Walls_182
+  - first:
+      213: -382973495544275064
+    second: Inside_Walls_183
+  - first:
+      213: -7905958034620460169
+    second: Inside_Walls_184
+  - first:
+      213: 5085945909945596655
+    second: Inside_Walls_185
+  - first:
+      213: -637376937267869016
+    second: Inside_Walls_186
+  - first:
+      213: -8683697973135368442
+    second: Inside_Walls_187
+  - first:
+      213: 6004929392065690556
+    second: Inside_Walls_188
+  - first:
+      213: -6920830041599897710
+    second: Inside_Walls_189
+  - first:
+      213: -4924543336561083150
+    second: Inside_Walls_190
+  - first:
+      213: 1771702580274606963
+    second: Inside_Walls_191
+  - first:
+      213: 3486153639155810531
+    second: Inside_Walls_192
+  - first:
+      213: -3915218540090616922
+    second: Inside_Walls_193
+  - first:
+      213: -550176329332569046
+    second: Inside_Walls_194
+  - first:
+      213: 2060688977414780998
+    second: Inside_Walls_195
+  - first:
+      213: 2776790519996747796
+    second: Inside_Walls_196
+  - first:
+      213: 1302275534247310796
+    second: Inside_Walls_197
+  - first:
+      213: 4135929462252923776
+    second: Inside_Walls_198
+  - first:
+      213: 1825688442375460666
+    second: Inside_Walls_199
+  - first:
+      213: -4069118683829402436
+    second: Inside_Walls_200
+  - first:
+      213: -5071569467196379996
+    second: Inside_Walls_201
+  - first:
+      213: 545930088903079899
+    second: Inside_Walls_202
+  - first:
+      213: 3927123752208740073
+    second: Inside_Walls_203
+  - first:
+      213: 8628147877668757141
+    second: Inside_Walls_204
+  - first:
+      213: -3232327625753528661
+    second: Inside_Walls_205
+  - first:
+      213: 1724288026310206301
+    second: Inside_Walls_206
+  - first:
+      213: 1077899361506331774
+    second: Inside_Walls_207
+  - first:
+      213: -2802445965472445768
+    second: Inside_Walls_208
+  - first:
+      213: 8207986305793706853
+    second: Inside_Walls_209
+  - first:
+      213: -1491278761257395891
+    second: Inside_Walls_210
+  - first:
+      213: 167831835176899316
+    second: Inside_Walls_211
+  - first:
+      213: 7016065050712991425
+    second: Inside_Walls_212
+  - first:
+      213: -1120867246937699061
+    second: Inside_Walls_213
+  - first:
+      213: 7196640225619903549
+    second: Inside_Walls_214
+  - first:
+      213: 8062982521961641506
+    second: Inside_Walls_215
+  - first:
+      213: 3055673218347350451
+    second: Inside_Walls_216
+  - first:
+      213: -702193127505040415
+    second: Inside_Walls_217
+  - first:
+      213: 6930685188998686346
+    second: Inside_Walls_218
+  - first:
+      213: 989797701424715358
+    second: Inside_Walls_219
+  - first:
+      213: -4583171180296733417
+    second: Inside_Walls_220
+  - first:
+      213: 7873264374946946846
+    second: Inside_Walls_221
+  - first:
+      213: 8892011339990191820
+    second: Inside_Walls_222
+  - first:
+      213: -8348215180612823707
+    second: Inside_Walls_223
+  - first:
+      213: 8921438437909039184
+    second: Inside_Walls_224
+  - first:
+      213: 5462895385231986859
+    second: Inside_Walls_225
+  - first:
+      213: 5527503620111496395
+    second: Inside_Walls_226
+  - first:
+      213: 8534336121414096100
+    second: Inside_Walls_227
+  - first:
+      213: 4297471122069893294
+    second: Inside_Walls_228
+  - first:
+      213: 8226868545951532737
+    second: Inside_Walls_229
+  - first:
+      213: -5534463824566804720
+    second: Inside_Walls_230
+  - first:
+      213: -8989049826127970418
+    second: Inside_Walls_231
+  - first:
+      213: 2611185695855550632
+    second: Inside_Walls_232
+  - first:
+      213: -7139431687982772025
+    second: Inside_Walls_233
+  - first:
+      213: -4105102336722569955
+    second: Inside_Walls_234
+  - first:
+      213: -4849406348504916225
+    second: Inside_Walls_235
+  - first:
+      213: -897085407503028153
+    second: Inside_Walls_236
+  - first:
+      213: 9108321217004309078
+    second: Inside_Walls_237
+  - first:
+      213: -466594096843298447
+    second: Inside_Walls_238
+  - first:
+      213: 8758818394740786275
+    second: Inside_Walls_239
+  - first:
+      213: 1860933529997022743
+    second: Inside_Walls_240
+  - first:
+      213: 931706419711467134
+    second: Inside_Walls_241
+  - first:
+      213: 4721829857294440265
+    second: Inside_Walls_242
+  - first:
+      213: 4644889955733464432
+    second: Inside_Walls_243
+  - first:
+      213: -270130701555192972
+    second: Inside_Walls_244
+  - first:
+      213: -7267654262043000211
+    second: Inside_Walls_245
+  - first:
+      213: -8021075840207715471
+    second: Inside_Walls_246
+  - first:
+      213: -7195267753290700771
+    second: Inside_Walls_247
+  - first:
+      213: 3726925993859515810
+    second: Inside_Walls_248
+  - first:
+      213: 1050131830363679662
+    second: Inside_Walls_249
+  - first:
+      213: 8475366528225609703
+    second: Inside_Walls_250
+  - first:
+      213: -4540112922531067500
+    second: Inside_Walls_251
+  - first:
+      213: 2410689150089011193
+    second: Inside_Walls_252
+  - first:
+      213: 4437232542456857094
+    second: Inside_Walls_253
+  - first:
+      213: -335778922601216480
+    second: Inside_Walls_254
+  - first:
+      213: 261764212458733379
+    second: Inside_Walls_255
+  - first:
+      213: 3275055587120134659
+    second: Inside_Walls_256
+  - first:
+      213: 4231249983843169492
+    second: Inside_Walls_257
+  - first:
+      213: 2131241631816848384
+    second: Inside_Walls_258
+  - first:
+      213: -1861287117886378610
+    second: Inside_Walls_259
+  - first:
+      213: -920609630073229107
+    second: Inside_Walls_260
+  - first:
+      213: 8696732160419231525
+    second: Inside_Walls_261
+  - first:
+      213: 1092451661618504563
+    second: Inside_Walls_262
+  - first:
+      213: 3271858290595950393
+    second: Inside_Walls_263
+  - first:
+      213: -7668607898224118347
+    second: Inside_Walls_264
+  - first:
+      213: -343349326278334415
+    second: Inside_Walls_265
+  - first:
+      213: 5248314296009483322
+    second: Inside_Walls_266
+  - first:
+      213: 8764675270937941044
+    second: Inside_Walls_267
+  - first:
+      213: 1913202705684790123
+    second: Inside_Walls_268
+  - first:
+      213: 6603613490110083445
+    second: Inside_Walls_269
+  - first:
+      213: 7125873518292728675
+    second: Inside_Walls_270
+  - first:
+      213: 4861235252069621343
+    second: Inside_Walls_271
+  - first:
+      213: 5723476815991031974
+    second: Inside_Walls_272
+  - first:
+      213: 7763909738090291313
+    second: Inside_Walls_273
+  - first:
+      213: 3279954228294065189
+    second: Inside_Walls_274
+  - first:
+      213: 4278537579045962887
+    second: Inside_Walls_275
+  - first:
+      213: -8643524485945411288
+    second: Inside_Walls_276
+  - first:
+      213: -6849539160334308305
+    second: Inside_Walls_277
+  - first:
+      213: -1118959851604881462
+    second: Inside_Walls_278
+  - first:
+      213: 4521234890611263640
+    second: Inside_Walls_279
+  - first:
+      213: 7501884463823688508
+    second: Inside_Walls_280
+  - first:
+      213: -1139677888707077532
+    second: Inside_Walls_281
+  - first:
+      213: 6655533578283599981
+    second: Inside_Walls_282
+  - first:
+      213: -8589967358608496377
+    second: Inside_Walls_283
+  - first:
+      213: -5574151128923864015
+    second: Inside_Walls_284
+  - first:
+      213: -6974955041450828701
+    second: Inside_Walls_285
+  - first:
+      213: 7665508029717592281
+    second: Inside_Walls_286
+  - first:
+      213: -4268182649808753874
+    second: Inside_Walls_287
+  - first:
+      213: 7755721126790468624
+    second: Inside_Walls_288
+  - first:
+      213: 6503816144612333866
+    second: Inside_Walls_289
+  - first:
+      213: 2032498792944154082
+    second: Inside_Walls_290
+  - first:
+      213: 6302867111277748858
+    second: Inside_Walls_291
+  - first:
+      213: -3668621670076856641
+    second: Inside_Walls_292
+  - first:
+      213: -3059696589492877527
+    second: Inside_Walls_293
+  - first:
+      213: -1996179145774648294
+    second: Inside_Walls_294
+  - first:
+      213: 1673437262423283103
+    second: Inside_Walls_295
+  - first:
+      213: 6148723770768445046
+    second: Inside_Walls_296
+  - first:
+      213: -5077090324038774725
+    second: Inside_Walls_297
+  - first:
+      213: -3922278620096703282
+    second: Inside_Walls_298
+  - first:
+      213: -6570994237683743876
+    second: Inside_Walls_299
+  - first:
+      213: -1204440118279996088
+    second: Inside_Walls_300
+  - first:
+      213: 7400694676564341397
+    second: Inside_Walls_301
+  - first:
+      213: 8203982266291251231
+    second: Inside_Walls_302
+  - first:
+      213: -7849632555935365364
+    second: Inside_Walls_303
+  - first:
+      213: 3409936381645326952
+    second: Inside_Walls_304
+  - first:
+      213: -96087441711141516
+    second: Inside_Walls_305
+  - first:
+      213: -8566483197316546398
+    second: Inside_Walls_306
+  - first:
+      213: -62299324256874618
+    second: Inside_Walls_307
+  - first:
+      213: 3014049939408259516
+    second: Inside_Walls_308
+  - first:
+      213: -7422374831136709963
+    second: Inside_Walls_309
+  - first:
+      213: -5261728074009097138
+    second: Inside_Walls_310
+  - first:
+      213: -980417117904190803
+    second: Inside_Walls_311
+  - first:
+      213: -7677757845296490626
+    second: Inside_Walls_312
+  - first:
+      213: -1392923212438782602
+    second: Inside_Walls_313
+  - first:
+      213: -2522303523464059860
+    second: Inside_Walls_314
+  - first:
+      213: -1842853469264085568
+    second: Inside_Walls_315
+  - first:
+      213: -6258911410190268010
+    second: Inside_Walls_316
+  - first:
+      213: 1362244231309675007
+    second: Inside_Walls_317
+  - first:
+      213: 1708329387653479608
+    second: Inside_Walls_318
+  - first:
+      213: -4505739914909873030
+    second: Inside_Walls_319
+  - first:
+      213: -2685261743581820737
+    second: Inside_Walls_320
+  - first:
+      213: -2090851692902824149
+    second: Inside_Walls_321
+  - first:
+      213: -5906779002981459934
+    second: Inside_Walls_322
+  - first:
+      213: -7160522209101014098
+    second: Inside_Walls_323
+  - first:
+      213: -5260088630014685488
+    second: Inside_Walls_324
+  - first:
+      213: -8000957146881483406
+    second: Inside_Walls_325
+  - first:
+      213: 6721855329898547815
+    second: Inside_Walls_326
+  - first:
+      213: -7131599922275703984
+    second: Inside_Walls_327
+  - first:
+      213: -2037304878627313018
+    second: Inside_Walls_328
+  - first:
+      213: 1919417367591435000
+    second: Inside_Walls_329
+  - first:
+      213: -1344100357244549162
+    second: Inside_Walls_330
+  - first:
+      213: -5354658642309994314
+    second: Inside_Walls_331
+  - first:
+      213: -4042392119344829658
+    second: Inside_Walls_332
+  - first:
+      213: 6501401763199304286
+    second: Inside_Walls_333
+  - first:
+      213: 943692269309576634
+    second: Inside_Walls_334
+  - first:
+      213: -1268500604546204512
+    second: Inside_Walls_335
+  - first:
+      213: -8378546368353560476
+    second: Inside_Walls_336
+  - first:
+      213: -5347580489486334575
+    second: Inside_Walls_337
+  - first:
+      213: 4917855623443664546
+    second: Inside_Walls_338
+  - first:
+      213: 321922096573138489
+    second: Inside_Walls_339
+  - first:
+      213: -854976462766700535
+    second: Inside_Walls_340
+  - first:
+      213: -5763594102281173622
+    second: Inside_Walls_341
+  - first:
+      213: -7694417739820819362
+    second: Inside_Walls_342
+  - first:
+      213: 5852662309076385415
+    second: Inside_Walls_343
+  - first:
+      213: -3782861030186340002
+    second: Inside_Walls_344
+  - first:
+      213: 6864149220011051424
+    second: Inside_Walls_345
+  - first:
+      213: 4768482754124819681
+    second: Inside_Walls_346
+  - first:
+      213: -7194143255888916952
+    second: Inside_Walls_347
+  - first:
+      213: 8954813766190244612
+    second: Inside_Walls_348
+  - first:
+      213: -201887468055554585
+    second: Inside_Walls_349
+  - first:
+      213: 4694936349876030120
+    second: Inside_Walls_350
+  - first:
+      213: -7538391121562825674
+    second: Inside_Walls_351
+  - first:
+      213: 3674296823260424130
+    second: Inside_Walls_352
+  - first:
+      213: -8958613343855423346
+    second: Inside_Walls_353
+  - first:
+      213: -3476872186032121841
+    second: Inside_Walls_354
+  - first:
+      213: -1256524337738666171
+    second: Inside_Walls_355
+  - first:
+      213: -7176599787608222789
+    second: Inside_Walls_356
+  - first:
+      213: 2064718784999360043
+    second: Inside_Walls_357
+  - first:
+      213: 2201333210073107416
+    second: Inside_Walls_358
+  - first:
+      213: 6166265100144833345
+    second: Inside_Walls_359
+  - first:
+      213: 3578894956108669476
+    second: Inside_Walls_360
+  - first:
+      213: -5282918905336313136
+    second: Inside_Walls_361
+  - first:
+      213: 4613513963187282410
+    second: Inside_Walls_362
+  - first:
+      213: 7300587292988104986
+    second: Inside_Walls_363
+  - first:
+      213: -2536775883329461388
+    second: Inside_Walls_364
+  - first:
+      213: -7462091000734250948
+    second: Inside_Walls_365
+  - first:
+      213: 4953891855555951904
+    second: Inside_Walls_366
+  - first:
+      213: 5739541848122307207
+    second: Inside_Walls_367
+  - first:
+      213: 2608326660192289059
+    second: Inside_Walls_368
+  - first:
+      213: 4940790533481868593
+    second: Inside_Walls_369
+  - first:
+      213: 6915917521066962824
+    second: Inside_Walls_370
+  - first:
+      213: 4343393084269118001
+    second: Inside_Walls_371
+  - first:
+      213: 9058980501986886127
+    second: Inside_Walls_372
+  - first:
+      213: 6755741222351843942
+    second: Inside_Walls_373
+  - first:
+      213: -1945738400775611956
+    second: Inside_Walls_374
+  - first:
+      213: -5525327210536156889
+    second: Inside_Walls_375
+  - first:
+      213: -4238065431598424242
+    second: Inside_Walls_376
+  - first:
+      213: 2509178486900041116
+    second: Inside_Walls_377
+  - first:
+      213: -3377445193640667106
+    second: Inside_Walls_378
+  - first:
+      213: -9081834757574426648
+    second: Inside_Walls_379
+  - first:
+      213: -5567866916222269447
+    second: Inside_Walls_380
+  - first:
+      213: 8611614644205044313
+    second: Inside_Walls_381
+  - first:
+      213: 6356406098874329005
+    second: Inside_Walls_382
+  - first:
+      213: 7629975687753001914
+    second: Inside_Walls_383
+  - first:
+      213: 8148359916936529362
+    second: Inside_Walls_384
+  - first:
+      213: -7726108924624908962
+    second: Inside_Walls_385
+  - first:
+      213: 1392775371237432040
+    second: Inside_Walls_386
+  - first:
+      213: 5633203919283602724
+    second: Inside_Walls_387
+  - first:
+      213: 3208054355871239231
+    second: Inside_Walls_388
+  - first:
+      213: 472457038112870295
+    second: Inside_Walls_389
+  - first:
+      213: 1558032252203227107
+    second: Inside_Walls_390
+  - first:
+      213: 6546318154081195404
+    second: Inside_Walls_391
+  - first:
+      213: 8249722582028695198
+    second: Inside_Walls_392
+  - first:
+      213: -7916638431266143258
+    second: Inside_Walls_393
+  - first:
+      213: -9072233752395125647
+    second: Inside_Walls_394
+  - first:
+      213: -5328596847537979950
+    second: Inside_Walls_395
+  - first:
+      213: 4463848982288324713
+    second: Inside_Walls_396
+  - first:
+      213: -3429041154893182806
+    second: Inside_Walls_397
+  - first:
+      213: 3100522248115398892
+    second: Inside_Walls_398
+  - first:
+      213: 3877911351213098964
+    second: Inside_Walls_399
+  - first:
+      213: -8090130794345966533
+    second: Inside_Walls_400
+  - first:
+      213: 6213489376992953188
+    second: Inside_Walls_401
+  - first:
+      213: -5771957493414613400
+    second: Inside_Walls_402
+  - first:
+      213: 4743386076380777413
+    second: Inside_Walls_403
+  - first:
+      213: -1412851723678186238
+    second: Inside_Walls_404
+  - first:
+      213: -2982832921813747117
+    second: Inside_Walls_405
+  - first:
+      213: 179846794938995643
+    second: Inside_Walls_406
+  - first:
+      213: -1008620370757252309
+    second: Inside_Walls_407
+  - first:
+      213: -7859587011374061246
+    second: Inside_Walls_408
+  - first:
+      213: 6450570372301635894
+    second: Inside_Walls_409
+  - first:
+      213: -8838119803045419229
+    second: Inside_Walls_410
+  - first:
+      213: -2338033881159532882
+    second: Inside_Walls_411
+  - first:
+      213: 3502089092672642695
+    second: Inside_Walls_412
+  - first:
+      213: 1276646636219788813
+    second: Inside_Walls_413
+  - first:
+      213: 4770022037410689500
+    second: Inside_Walls_414
+  - first:
+      213: -7517886993605086052
+    second: Inside_Walls_415
+  - first:
+      213: 8821478208608115059
+    second: Inside_Walls_416
+  - first:
+      213: 9088890155913530159
+    second: Inside_Walls_417
+  - first:
+      213: -9054360164798008681
+    second: Inside_Walls_418
+  - first:
+      213: 8981370665755383265
+    second: Inside_Walls_419
+  - first:
+      213: -4615338658468764321
+    second: Inside_Walls_420
+  - first:
+      213: 2674110730747904242
+    second: Inside_Walls_421
+  - first:
+      213: -1152487724566939963
+    second: Inside_Walls_422
+  - first:
+      213: 5346755208977203053
+    second: Inside_Walls_423
+  - first:
+      213: -5139758204379643941
+    second: Inside_Walls_424
+  - first:
+      213: 6027089919313318281
+    second: Inside_Walls_425
+  - first:
+      213: -1764476366896339127
+    second: Inside_Walls_426
+  - first:
+      213: 2760002892127637768
+    second: Inside_Walls_427
+  - first:
+      213: 5505193858495091193
+    second: Inside_Walls_428
+  - first:
+      213: -5219121932828239664
+    second: Inside_Walls_429
+  - first:
+      213: -5210184379831143764
+    second: Inside_Walls_430
+  - first:
+      213: -754584885945627404
+    second: Inside_Walls_431
+  - first:
+      213: 6435617313521273433
+    second: Inside_Walls_432
+  - first:
+      213: -7242783001834463410
+    second: Inside_Walls_433
+  - first:
+      213: -3879096879783289028
+    second: Inside_Walls_434
+  - first:
+      213: 1670577467237637862
+    second: Inside_Walls_435
+  - first:
+      213: 1964826361493438786
+    second: Inside_Walls_436
+  - first:
+      213: -8744947757839480697
+    second: Inside_Walls_437
+  - first:
+      213: -3177016386388954445
+    second: Inside_Walls_438
+  - first:
+      213: 7609402512787226771
+    second: Inside_Walls_439
+  - first:
+      213: 1862102944101358407
+    second: Inside_Walls_440
+  - first:
+      213: -7794589922245982576
+    second: Inside_Walls_441
+  - first:
+      213: -2180115829014632472
+    second: Inside_Walls_442
+  - first:
+      213: -8616209921513906517
+    second: Inside_Walls_443
+  - first:
+      213: 8297106583809346647
+    second: Inside_Walls_444
+  - first:
+      213: -8289678834505408628
+    second: Inside_Walls_445
+  - first:
+      213: 5098124136065728531
+    second: Inside_Walls_446
+  - first:
+      213: 3182805314308640464
+    second: Inside_Walls_447
+  - first:
+      213: 3086678075905110321
+    second: Inside_Walls_448
+  - first:
+      213: 6040439915594853445
+    second: Inside_Walls_449
+  - first:
+      213: 389330007428765747
+    second: Inside_Walls_450
+  - first:
+      213: -2172626444652910118
+    second: Inside_Walls_451
+  - first:
+      213: -4979315594321014026
+    second: Inside_Walls_452
+  - first:
+      213: 8910010441861162472
+    second: Inside_Walls_453
+  - first:
+      213: -6148733733568073658
+    second: Inside_Walls_454
+  - first:
+      213: -3815700982284807287
+    second: Inside_Walls_455
+  - first:
+      213: -8541183474847032656
+    second: Inside_Walls_456
+  - first:
+      213: 2676099289958337216
+    second: Inside_Walls_457
+  - first:
+      213: 3259492756698183639
+    second: Inside_Walls_458
+  - first:
+      213: -7792539804991613830
+    second: Inside_Walls_459
+  - first:
+      213: 5097207943738344103
+    second: Inside_Walls_460
+  - first:
+      213: -7154221883342057238
+    second: Inside_Walls_461
+  - first:
+      213: -2977249427339606988
+    second: Inside_Walls_462
+  - first:
+      213: 4591053850812333243
+    second: Inside_Walls_463
+  - first:
+      213: 3551992991309672249
+    second: Inside_Walls_464
+  - first:
+      213: 7830340753429713320
+    second: Inside_Walls_465
+  - first:
+      213: 4151375647073187153
+    second: Inside_Walls_466
+  - first:
+      213: 9052744723101830755
+    second: Inside_Walls_467
+  - first:
+      213: 338908675070864786
+    second: Inside_Walls_468
+  - first:
+      213: -8050122545772194502
+    second: Inside_Walls_469
+  - first:
+      213: 3946880957285428723
+    second: Inside_Walls_470
+  - first:
+      213: -3488091226311116131
+    second: Inside_Walls_471
+  - first:
+      213: 6771965370805212475
+    second: Inside_Walls_472
+  - first:
+      213: 6842041728621623077
+    second: Inside_Walls_473
+  - first:
+      213: -6349011923562591558
+    second: Inside_Walls_474
+  - first:
+      213: 826209928559181712
+    second: Inside_Walls_475
+  - first:
+      213: -3111526254126622096
+    second: Inside_Walls_476
+  - first:
+      213: -8566763692081155206
+    second: Inside_Walls_477
+  - first:
+      213: 2593416568509586659
+    second: Inside_Walls_478
+  - first:
+      213: -2499755610872673538
+    second: Inside_Walls_479
+  - first:
+      213: 4780792244439803038
+    second: Inside_Walls_480
+  - first:
+      213: -8673451816334237861
+    second: Inside_Walls_481
+  - first:
+      213: -1262387449598508719
+    second: Inside_Walls_482
+  - first:
+      213: -5594015768481599726
+    second: Inside_Walls_483
+  - first:
+      213: 4335964725068533644
+    second: Inside_Walls_484
+  - first:
+      213: 3879414355646562059
+    second: Inside_Walls_485
+  - first:
+      213: -6211310453366966769
+    second: Inside_Walls_486
+  - first:
+      213: 9024611580368552164
+    second: Inside_Walls_487
+  - first:
+      213: -1742710237327055517
+    second: Inside_Walls_488
+  - first:
+      213: 467297891956486037
+    second: Inside_Walls_489
+  - first:
+      213: 729549527072627082
+    second: Inside_Walls_490
+  - first:
+      213: -8947534372468389363
+    second: Inside_Walls_491
+  - first:
+      213: 8625455832501101816
+    second: Inside_Walls_492
+  - first:
+      213: 8145149937971961466
+    second: Inside_Walls_493
+  - first:
+      213: -5803555404250838288
+    second: Inside_Walls_494
+  - first:
+      213: 5065596307794394113
+    second: Inside_Walls_495
+  - first:
+      213: 4547229630968396823
+    second: Inside_Walls_496
+  - first:
+      213: -5987887029449214775
+    second: Inside_Walls_497
+  - first:
+      213: 4999858348209789536
+    second: Inside_Walls_498
+  - first:
+      213: -3036723813565123680
+    second: Inside_Walls_499
+  - first:
+      213: 4910673763227637520
+    second: Inside_Walls_500
+  - first:
+      213: 5484546089786285399
+    second: Inside_Walls_501
+  - first:
+      213: 2988467475131037278
+    second: Inside_Walls_502
+  - first:
+      213: 1341988972417676129
+    second: Inside_Walls_503
+  - first:
+      213: -5414520032829933790
+    second: Inside_Walls_504
+  - first:
+      213: -6031435364305542481
+    second: Inside_Walls_505
+  - first:
+      213: 3156487126401820252
+    second: Inside_Walls_506
+  - first:
+      213: -663747648255625023
+    second: Inside_Walls_507
+  - first:
+      213: 3532990251626287586
+    second: Inside_Walls_508
+  - first:
+      213: 4607303385085696625
+    second: Inside_Walls_509
+  - first:
+      213: 2525683490945406975
+    second: Inside_Walls_510
+  - first:
+      213: -4007662786604160059
+    second: Inside_Walls_511
+  - first:
+      213: 1044754368824354322
+    second: Inside_Walls_512
+  - first:
+      213: 617381308751043926
+    second: Inside_Walls_513
+  - first:
+      213: -307720603467506298
+    second: Inside_Walls_514
+  - first:
+      213: 8000062642671446909
+    second: Inside_Walls_515
+  - first:
+      213: -2450455313498002640
+    second: Inside_Walls_516
+  - first:
+      213: -6439772011526035865
+    second: Inside_Walls_517
+  - first:
+      213: 7655414787106509689
+    second: Inside_Walls_518
+  - first:
+      213: 4430126965233252214
+    second: Inside_Walls_519
+  - first:
+      213: 6945361444932649536
+    second: Inside_Walls_520
+  - first:
+      213: -3427205582900047257
+    second: Inside_Walls_521
+  - first:
+      213: -1847075055766891986
+    second: Inside_Walls_522
+  - first:
+      213: -5969983947718645443
+    second: Inside_Walls_523
+  - first:
+      213: 6697110642983039012
+    second: Inside_Walls_524
+  - first:
+      213: -663075940838159879
+    second: Inside_Walls_525
+  - first:
+      213: 3050200876072297727
+    second: Inside_Walls_526
+  - first:
+      213: -1477870347567602460
+    second: Inside_Walls_527
+  - first:
+      213: 8104134278082435706
+    second: Inside_Walls_528
+  - first:
+      213: 2133964851226366736
+    second: Inside_Walls_529
+  - first:
+      213: 1816284535870499009
+    second: Inside_Walls_530
+  - first:
+      213: -4644285354755387684
+    second: Inside_Walls_531
+  - first:
+      213: 6379747289187445404
+    second: Inside_Walls_532
+  - first:
+      213: -755117054715538218
+    second: Inside_Walls_533
+  - first:
+      213: -2384237612710528629
+    second: Inside_Walls_534
+  - first:
+      213: 6077561620708621576
+    second: Inside_Walls_535
+  - first:
+      213: -9074395166711995089
+    second: Inside_Walls_536
+  - first:
+      213: 6206959136194579725
+    second: Inside_Walls_537
+  - first:
+      213: -8470763111822738314
+    second: Inside_Walls_538
+  - first:
+      213: -6603934952333469324
+    second: Inside_Walls_539
+  - first:
+      213: -6426289455256450897
+    second: Inside_Walls_540
+  - first:
+      213: 4070321775189656391
+    second: Inside_Walls_541
+  - first:
+      213: -4963967758696565774
+    second: Inside_Walls_542
+  - first:
+      213: 1424978924757255068
+    second: Inside_Walls_543
+  - first:
+      213: 7384796134755847165
+    second: Inside_Walls_544
+  - first:
+      213: 198745427883954933
+    second: Inside_Walls_545
+  - first:
+      213: 5746649015516132698
+    second: Inside_Walls_546
+  - first:
+      213: -2374805695718610073
+    second: Inside_Walls_547
+  - first:
+      213: 950959950599496967
+    second: Inside_Walls_548
+  - first:
+      213: -8644333307951882928
+    second: Inside_Walls_549
+  - first:
+      213: 7634418651496403547
+    second: Inside_Walls_550
+  - first:
+      213: 4672213906028769992
+    second: Inside_Walls_551
+  - first:
+      213: -2838887924067697897
+    second: Inside_Walls_552
+  - first:
+      213: 5635151519821653864
+    second: Inside_Walls_553
+  - first:
+      213: -7612495452512031825
+    second: Inside_Walls_554
+  - first:
+      213: 7578870534412062295
+    second: Inside_Walls_555
+  - first:
+      213: 464581519165063027
+    second: Inside_Walls_556
+  - first:
+      213: 1021498162330343540
+    second: Inside_Walls_557
+  - first:
+      213: -6820414649276879927
+    second: Inside_Walls_558
+  - first:
+      213: 6723780859555938859
+    second: Inside_Walls_559
+  - first:
+      213: -3708835303585731075
+    second: Inside_Walls_560
+  - first:
+      213: 3654970850346947523
+    second: Inside_Walls_561
+  - first:
+      213: -3439229284323794210
+    second: Inside_Walls_562
+  - first:
+      213: 6022290896041882483
+    second: Inside_Walls_563
+  - first:
+      213: -1175974772488285949
+    second: Inside_Walls_564
+  - first:
+      213: 3932010973696891099
+    second: Inside_Walls_565
+  - first:
+      213: 2338867863826710595
+    second: Inside_Walls_566
+  - first:
+      213: -3483736579663122079
+    second: Inside_Walls_567
+  - first:
+      213: -7090188542775883806
+    second: Inside_Walls_568
+  - first:
+      213: 2903851224210161270
+    second: Inside_Walls_569
+  - first:
+      213: -6942342548178049155
+    second: Inside_Walls_570
+  - first:
+      213: -4105444573152816395
+    second: Inside_Walls_571
+  - first:
+      213: 7955368450888210643
+    second: Inside_Walls_572
+  - first:
+      213: -201455053349347328
+    second: Inside_Walls_573
+  - first:
+      213: -6753832880016128691
+    second: Inside_Walls_574
+  - first:
+      213: 5490602833257182965
+    second: Inside_Walls_575
+  - first:
+      213: -428327911632301122
+    second: Inside_Walls_576
+  - first:
+      213: 3134606128329698081
+    second: Inside_Walls_577
+  - first:
+      213: -3339875284724753388
+    second: Inside_Walls_578
+  - first:
+      213: -3174617219812687483
+    second: Inside_Walls_579
+  - first:
+      213: 7112462683433370456
+    second: Inside_Walls_580
+  - first:
+      213: -2559936508369371173
+    second: Inside_Walls_581
+  - first:
+      213: 4834307902509914980
+    second: Inside_Walls_582
+  - first:
+      213: -3037181433372130975
+    second: Inside_Walls_583
+  - first:
+      213: -7730649068228046437
+    second: Inside_Walls_584
+  - first:
+      213: -937224428475907112
+    second: Inside_Walls_585
+  - first:
+      213: -3838937046381303715
+    second: Inside_Walls_586
+  - first:
+      213: 5071581323664442526
+    second: Inside_Walls_587
+  - first:
+      213: -5232485615985027045
+    second: Inside_Walls_588
+  - first:
+      213: 1186885731938397241
+    second: Inside_Walls_589
+  - first:
+      213: -6217291489872312052
+    second: Inside_Walls_590
+  - first:
+      213: -2824937379690207076
+    second: Inside_Walls_591
+  - first:
+      213: -949234494903161611
+    second: Inside_Walls_592
+  - first:
+      213: 934658936973386762
+    second: Inside_Walls_593
+  - first:
+      213: -4726615173379818978
+    second: Inside_Walls_594
+  - first:
+      213: 6827613081341597949
+    second: Inside_Walls_595
+  - first:
+      213: -8359523754110338113
+    second: Inside_Walls_596
+  - first:
+      213: -6627859561322234516
+    second: Inside_Walls_597
+  - first:
+      213: 9084389611582178385
+    second: Inside_Walls_598
+  - first:
+      213: -5299364428466502777
+    second: Inside_Walls_599
+  - first:
+      213: -5743912793518720415
+    second: Inside_Walls_600
+  - first:
+      213: 9163064676238192613
+    second: Inside_Walls_601
+  - first:
+      213: -5105787592494902755
+    second: Inside_Walls_602
+  - first:
+      213: -3839145886267388411
+    second: Inside_Walls_603
+  - first:
+      213: -7445815941028388902
+    second: Inside_Walls_604
+  - first:
+      213: -6180990891427083332
+    second: Inside_Walls_605
+  - first:
+      213: 2110211840434696208
+    second: Inside_Walls_606
+  - first:
+      213: 5659482571972166143
+    second: Inside_Walls_607
+  - first:
+      213: 5483810652473909394
+    second: Inside_Walls_608
+  - first:
+      213: -8257634011145821580
+    second: Inside_Walls_609
+  - first:
+      213: 8695734605493903120
+    second: Inside_Walls_610
+  - first:
+      213: -5414068410281122778
+    second: Inside_Walls_611
+  - first:
+      213: 8878025528054366955
+    second: Inside_Walls_612
+  - first:
+      213: 767304401786318488
+    second: Inside_Walls_613
+  - first:
+      213: -8127891138661916960
+    second: Inside_Walls_614
+  - first:
+      213: -859797726083865475
+    second: Inside_Walls_615
+  - first:
+      213: -736139261462517751
+    second: Inside_Walls_616
+  - first:
+      213: -6870002292343961988
+    second: Inside_Walls_617
+  - first:
+      213: -4806727684271367864
+    second: Inside_Walls_618
+  - first:
+      213: 1575952324802588812
+    second: Inside_Walls_619
+  - first:
+      213: 4043645993205383698
+    second: Inside_Walls_620
+  - first:
+      213: -8711187259628671801
+    second: Inside_Walls_621
+  - first:
+      213: 6644859589735685414
+    second: Inside_Walls_622
+  - first:
+      213: -2081331820787440682
+    second: Inside_Walls_623
+  - first:
+      213: 3908417742595368803
+    second: Inside_Walls_624
+  - first:
+      213: -4064799051557880016
+    second: Inside_Walls_625
+  - first:
+      213: -3774585497563858339
+    second: Inside_Walls_626
+  - first:
+      213: -1056158820586142030
+    second: Inside_Walls_627
+  - first:
+      213: 2853029877133356268
+    second: Inside_Walls_628
+  - first:
+      213: 3770415851284192831
+    second: Inside_Walls_629
+  - first:
+      213: 6400809683803291064
+    second: Inside_Walls_630
+  - first:
+      213: 32285702337255766
+    second: Inside_Walls_631
+  - first:
+      213: 601729652510870988
+    second: Inside_Walls_632
+  - first:
+      213: 897703218899001875
+    second: Inside_Walls_633
+  - first:
+      213: -2339750833849532386
+    second: Inside_Walls_634
+  - first:
+      213: 3285718632696066355
+    second: Inside_Walls_635
+  - first:
+      213: 541642820938285056
+    second: Inside_Walls_636
+  - first:
+      213: 8546398179761804775
+    second: Inside_Walls_637
+  - first:
+      213: 5490177636222224370
+    second: Inside_Walls_638
+  - first:
+      213: 8403973284917377708
+    second: Inside_Walls_639
+  - first:
+      213: 5979224875615709363
+    second: Inside_Walls_640
+  - first:
+      213: 3341938797583608730
+    second: Inside_Walls_641
+  - first:
+      213: -5591863520834922589
+    second: Inside_Walls_642
+  - first:
+      213: 8281869053578472905
+    second: Inside_Walls_643
+  - first:
+      213: -6417582952553922408
+    second: Inside_Walls_644
+  - first:
+      213: 2700816398215997186
+    second: Inside_Walls_645
+  - first:
+      213: -5594510744320356978
+    second: Inside_Walls_646
+  - first:
+      213: -530533583210774796
+    second: Inside_Walls_647
+  - first:
+      213: -5458653200082490314
+    second: Inside_Walls_648
+  - first:
+      213: -7391394161593568582
+    second: Inside_Walls_649
+  - first:
+      213: 4829393103780872187
+    second: Inside_Walls_650
+  - first:
+      213: 322414989252635420
+    second: Inside_Walls_651
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Inside_Walls_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e70336f361a4880800000000000000
+      internalID: -8626057674771890555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f5a02d225e189f0800000000000000
+      internalID: -467840948554277076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f2bc0b273707450800000000000000
+      internalID: 6084490033007112049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb2a23a890e1d060800000000000000
+      internalID: 6976604243950709704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e4602073d9b3280800000000000000
+      internalID: -9062476965570261411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6a6c7f726b40370800000000000000
+      internalID: 8287949497045526258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be58b3ae9a8df8770800000000000000
+      internalID: 8615342836473890283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b19cf75746f5c3e0800000000000000
+      internalID: -2033948870408629835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c24021d9cdf88520800000000000000
+      internalID: 2704690619474789061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c477d153f6971fd60800000000000000
+      internalID: 7922246738060867404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd2507df928d2420800000000000000
+      internalID: 2606883382336237020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6651e147986c69430800000000000000
+      internalID: 3789434430139798886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4619b6ae4ceb91b0800000000000000
+      internalID: -5648661485057403318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9563a5148514885e0800000000000000
+      internalID: -1907202594882046375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b6f437fe56ed5d0800000000000000
+      internalID: -3035877019694961882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634a892fc0d212830800000000000000
+      internalID: 4044563473988363318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0580530c4adc14bb0800000000000000
+      internalID: -4953452007647803312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a608b62750f60ce70800000000000000
+      internalID: 9133422113492533354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d09bda603978450800000000000000
+      internalID: 6090998677935557918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d562f8497acb2d0800000000000000
+      internalID: -3261547773624427131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea711319effc8850800000000000000
+      internalID: 6380756148589525728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13176e1b5752b9f0800000000000000
+      internalID: -454204563547286754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9536a33ea5e976e60800000000000000
+      internalID: 7955501379969770329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b484264fe1a20a0800000000000000
+      internalID: -6905673043649475759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6ba3f86f873cf50800000000000000
+      internalID: 6900492054422009511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781d8f352f9945ee0800000000000000
+      internalID: -1273223528569056889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1385a01d7456c6210800000000000000
+      internalID: 1327547349291653169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3360be23f3a9500800000000000000
+      internalID: 403704604527047657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208db6579b10df150800000000000000
+      internalID: 5907880182230538242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e87b9f9dccc61010800000000000000
+      internalID: 1159339137612609768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00737edf9b1462f0800000000000000
+      internalID: -980628445414068210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dc1c7c61f49f9e0800000000000000
+      internalID: -1587150434412147305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daa11a8636e9d260800000000000000
+      internalID: 7122977407582186193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b67eeacda7395c0800000000000000
+      internalID: -4209886138415486199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859f3d87667c11f50800000000000000
+      internalID: 6850475751134984536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7708ea77e78909090800000000000000
+      internalID: -8029750466660368265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21ce783f039d9740800000000000000
+      internalID: 5160442441618080047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce117cdb99bdcb40800000000000000
+      internalID: 5462226002139750089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61debb615962057f0800000000000000
+      internalID: -625957926431101674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a7ae45a70def1c0800000000000000
+      internalID: -4467904556475713016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_40
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb368af89a9e20f0800000000000000
+      internalID: -1139803673849349198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_41
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b3e04ee0d161160800000000000000
+      internalID: 6995811020959529761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b60e836ef7d03d0800000000000000
+      internalID: -3238791930236081287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3a06b275f9992f0800000000000000
+      internalID: -965565448355535964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350d39e47079ff640800000000000000
+      internalID: 5115973759355048019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b9bc5e422745d40800000000000000
+      internalID: 5572204141763861257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515c219031856f5f0800000000000000
+      internalID: -723293851366537963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a383df21bd14ed0800000000000000
+      internalID: -2431421449199142292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37f0efcecfc32780800000000000000
+      internalID: -8708888767246567622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73533de62da317f30800000000000000
+      internalID: 4571499772234642743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd97123865600e190800000000000000
+      internalID: -7935335574789850657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda03466e634dafa0800000000000000
+      internalID: -5787895804660086053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470003f0ef2fac7b0800000000000000
+      internalID: -5203079246482767756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4303324b22f92e50800000000000000
+      internalID: 6785220581218517836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404f00624f619d4f0800000000000000
+      internalID: -803585820643494908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_55
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d19e3f277b47ede0800000000000000
+      internalID: -1303990591834648111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c53a159ea685b3d0800000000000000
+      internalID: -3191496676538174014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc886dd1ca02e170800000000000000
+      internalID: 8206133298782047446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939ab7d43eb90de30800000000000000
+      internalID: 4526289026067179833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dd97389fa9bc140800000000000000
+      internalID: 4741053429180915023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eed883737f79b350800000000000000
+      internalID: 6032993309675806436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a1d5b43078484b0800000000000000
+      internalID: -5439074001737672097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84502782af6dc8750800000000000000
+      internalID: 6308653547947951432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b861671e7a2eb8b0800000000000000
+      internalID: -5134619804109281096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148c231466c54c210800000000000000
+      internalID: 1352307382368258113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf44e93658194200800000000000000
+      internalID: 164689619993251759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2744a5935cb026df0800000000000000
+      internalID: -188575292697459598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4128bdf564fe1b520800000000000000
+      internalID: 2716215135816090132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_68
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2041b5675d17780800000000000000
+      internalID: -8686927501910080777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420f7e4cb534aac60800000000000000
+      internalID: 7830144963561648164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_70
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9448d1b77075630800000000000000
+      internalID: 3915606626379516341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a83cbd733a2b7020800000000000000
+      internalID: 2340510831990290598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62f2f3a3c62bec90800000000000000
+      internalID: -7139570162554703253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faca3098e75448ee0800000000000000
+      internalID: -1259805585989981009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c6a299bde9b9530800000000000000
+      internalID: 3862855771405053083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eb42296a390cb30800000000000000
+      internalID: 4305603587391929925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ebd286f711b6960800000000000000
+      internalID: 7596184435396820488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efa751a30a5ef710800000000000000
+      internalID: 1728918278595129317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04837e26110ce7a0800000000000000
+      internalID: -6346696580091640822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96270d14212255230800000000000000
+      internalID: 3626842536725738089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541f2776f7b948eb0800000000000000
+      internalID: -4718475538078699195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9118aef11512aab10800000000000000
+      internalID: 1993442417376395545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fd8c78d9affb910800000000000000
+      internalID: 1855477125994831642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38cedb2308e3e900800000000000000
+      internalID: 712668266373236796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3aaa07208ff78f80800000000000000
+      internalID: -8104228078554011075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_85
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d36a5a68a6156b0800000000000000
+      internalID: -5309345359155806877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_86
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43e609f2c48a4e00800000000000000
+      internalID: 1029781437744079692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce18f972ce1759f0800000000000000
+      internalID: -479881014672875825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1948ac453eff94720800000000000000
+      internalID: 2831075192624284817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f43ae8c4e1f05260800000000000000
+      internalID: 7084428178779419888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96225810e3fa69a00800000000000000
+      internalID: 762989867734213225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b6fafdb90cfff00800000000000000
+      internalID: 1152851805335415564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_92
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f83b8ee8f77e5360800000000000000
+      internalID: 7160292368603363572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_93
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb8a9a625ae68ee0800000000000000
+      internalID: -1259061406106743829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_94
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ba15e80e4740b20800000000000000
+      internalID: 3099730951346957136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_95
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a3fa8fad9460490800000000000000
+      internalID: -7780450101412021643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaa60197d7d83890800000000000000
+      internalID: -7477989860397634819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0b252d366722510800000000000000
+      internalID: 1522909795107123407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27184a65032408400800000000000000
+      internalID: 324331948550160754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af87c6f014fbdfd20800000000000000
+      internalID: 3314015186967099642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6034fd9fb19c6760800000000000000
+      internalID: 7452491735566135402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f9715ce3982d2b0800000000000000
+      internalID: -5561231687161503890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bac7106d9e06280800000000000000
+      internalID: -9051978145657476251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af378b6adededff40800000000000000
+      internalID: 5764024703064241146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7763bd49a36bf91b0800000000000000
+      internalID: -5647595044977559945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c412d9c0aca2a900800000000000000
+      internalID: 694307099149210818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9f194cb139e5c90800000000000000
+      internalID: -7179139008510690891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_107
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f444890066f49c500800000000000000
+      internalID: 416951740023718991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571f99eaee6952c50800000000000000
+      internalID: 6639879177503371637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2758e1ee383507360800000000000000
+      internalID: 7165318833247257970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3fc28d7f8dd43e0800000000000000
+      internalID: -2067758094897843207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349cbaf4bc6e098e0800000000000000
+      internalID: -1688596099374528189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56e5b7947293f860800000000000000
+      internalID: 7562549228744336990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_113
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633588c565c8e2150800000000000000
+      internalID: 5849767268548367158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a02e8f37a20b1c0800000000000000
+      internalID: -4490042150903215473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf1de2ad76d3d610800000000000000
+      internalID: 1644894124013068217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c1d3df37212b220800000000000000
+      internalID: 2500081032523226135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_117
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0510ee9e9594c320800000000000000
+      internalID: 2577349395265623306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990d1920605ec9db0800000000000000
+      internalID: -4783696890198634343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122ea90892eb809d0800000000000000
+      internalID: -2807785282204933599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f2f8791faba87a0800000000000000
+      internalID: -6374076775796887654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2fe33369ec30280800000000000000
+      internalID: -9078185279348608305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed421728e3c42f490800000000000000
+      internalID: -7714019380372101922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_123
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f77c2ccffbf2bb70800000000000000
+      internalID: 8913463688580331507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce79c22123b0d99b0800000000000000
+      internalID: -5071885295668127764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_125
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bce0290587b9ea40800000000000000
+      internalID: 5398047410391936183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128ad65b340a7af80800000000000000
+      internalID: -8095325592508061663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3792ab64c85cce0800000000000000
+      internalID: -1385547074947681324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b13bd289fa1ae450800000000000000
+      internalID: 6118732702680822193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e975c188544d517b0800000000000000
+      internalID: -5254059995156424802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01688244a5027cb30800000000000000
+      internalID: 4307447140665820688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd97f91353a1df60800000000000000
+      internalID: 8057400785655799291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aab784aaa8fbbf60800000000000000
+      internalID: 8051302170643380896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fbe2394dd40a730800000000000000
+      internalID: 4008289243757461287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fe386e5f03ad260800000000000000
+      internalID: 7123059593332387702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_135
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e5af54b5fb66630800000000000000
+      internalID: 3920030924409560597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201d61a60db6bf7a0800000000000000
+      internalID: -6342357107343961854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630c2f99fb2e5c100800000000000000
+      internalID: 127757476999381046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814d197b65b7a4440800000000000000
+      internalID: 4920881155232879640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b61d6d25d6591d60800000000000000
+      internalID: 7861410098142058168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc03fbb009913020800000000000000
+      internalID: 2319803511504833788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_141
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e47ac23ada5c770800000000000000
+      internalID: 8630495177265860166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f119dcfaacc4230800000000000000
+      internalID: 3624494656543334181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_143
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f9a052e8af226d0800000000000000
+      internalID: -3016573311971057766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_144
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1151148e973873b80800000000000000
+      internalID: -8415112819107621615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_145
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba30097585fa75140800000000000000
+      internalID: 4708424729400181675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8414a920d711e40800000000000000
+      internalID: 5625414859693836511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_147
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521398b2997105a20800000000000000
+      internalID: 3048962894357672229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f39c79fc25341800800000000000000
+      internalID: 582148719118160881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111ed16e11cdc3920800000000000000
+      internalID: 2971491823590957329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_150
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97712d9c0f3823c20800000000000000
+      internalID: 3184752956705740665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_151
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c31d28c27c227d60800000000000000
+      internalID: 7886414768975451081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd8c28f201180340800000000000000
+      internalID: 4830129304806133189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_153
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cccce8a5a5feff0800000000000000
+      internalID: -4685729614738305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_154
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7241b9c9a34147ba0800000000000000
+      internalID: -6092222153957370841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_155
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79203f0a5580a0b0800000000000000
+      internalID: -5719424904912164481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a198f1bcd4d16780800000000000000
+      internalID: -8691431761504595546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_157
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85469e4a0d6d9b6e0800000000000000
+      internalID: -1821188382686354344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_158
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f50e5e1f4abaf60800000000000000
+      internalID: 8046706518078283550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_159
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830a9e59113560950800000000000000
+      internalID: 6414906054230515768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c633fb11e590490800000000000000
+      internalID: -7779583450990547952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_161
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2de790b50c2ccd0800000000000000
+      internalID: -2539255742649675099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3149da1497cc703c0800000000000000
+      internalID: -4393318090311625709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Walls_163
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca68fddefdb09930800000000000000
+      internalID: 4148024159151614670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
